@@ -1,1 +1,1 @@
-# BingBot
+# Bot for B
